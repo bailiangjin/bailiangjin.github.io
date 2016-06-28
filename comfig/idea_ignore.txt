@@ -1,0 +1,18 @@
+# Created by .ignore support plugin 
+
+#idea
+.idea/misc.xml
+#*.iml
+
+#Java template
+*.class
+out
+bin
+META-INF
+
+#Package Files
+#*.jar
+*.war
+*.ear
+
+
