@@ -2,4 +2,4 @@
 博客示例
 
 我的博客地址：
-https://bailiangjin.github.com
+https://bailiangjin.github.io
